@@ -1,0 +1,1 @@
+This error occurs when using AsyncStorage in Expo and the app is running in the background.  The error message might not be explicit, but you'll see unexpected behavior or crashes related to AsyncStorage. The root cause is that AsyncStorage might not be fully functional while the app is backgrounded. 
